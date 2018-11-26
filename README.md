@@ -1,2 +1,4 @@
 # miracle_sound
-new ideas 
+new ideas
+
+A store that sells brass instruments
